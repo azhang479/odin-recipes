@@ -1,0 +1,54 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-size: 60px;
+    margin: 30px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+    margin: 10px;
+}
+
+p, ul, ol {
+    margin: 10px;
+}
+
+img {
+    margin: 30px auto;
+    text-align: center;
+    width: 40%;
+    min-width: 600px;
+    height: auto;
+    display: block;
+}
+
+.card {
+    box-sizing: border-box;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    margin: 10px auto;
+    background-color: antiquewhite;
+    width: 80%;
+    min-width: 600px;
+}
+
+a {
+    box-sizing: border-box;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    margin: auto;
+    padding: auto;
+    background-color: antiquewhite;
+    width: 80%;
+    min-width: 600px;
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+}
